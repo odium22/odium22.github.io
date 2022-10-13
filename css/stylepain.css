@@ -1,0 +1,28 @@
+.main-header{
+   margin-bottom:0;
+}
+
+.accordionExample{
+   font-size: 16px;
+}
+
+.main-content{
+   margin: 12rem 0;
+}
+
+.aboutus{
+   padding: 12rem 0;
+   background: #6e8857;
+}
+
+.inf{
+   font-weight:700;
+   font-size: 36px;
+   margin-bottom: 20px;
+}
+
+.accardion-bg{
+   background: #ffffff;
+   padding: 4rem 0;
+   margin: -4rem -2rem;
+}
