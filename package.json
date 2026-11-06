@@ -1,0 +1,21 @@
+{
+  "name": "odium22.github.io",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Персональный сайт-резюме odium22 — QA-инженер и разработчик (React + FastAPI).",
+  "author": "odium22",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.10"
+  }
+}
